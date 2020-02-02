@@ -13,7 +13,8 @@
 <br>
 <h4>https://drive.google.com/open?id=1TeqOhl8XdiBdkJOr72Q6mMvQ_WG2IzV5</h4>
 # NOTE:
-The previous json files are for trial purposes only(since they classify images and not detect objects in them). Could be used by both devs  
+The previous json files are for trial purposes only(since they classify images and not detect objects in them). Could be used by both devs 
+<br>
 # Links
 https://teachablemachine.withgoogle.com/faq <br>
 https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006 <br>
