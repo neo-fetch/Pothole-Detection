@@ -13,7 +13,7 @@
 <br>
 <h4>https://drive.google.com/open?id=1TeqOhl8XdiBdkJOr72Q6mMvQ_WG2IzV5</h4>
 <br>
-<h5> Take any 30 simple potholes from your assigned 317 and annotate them
+<h5> Take any 30 simple potholes from your assigned 317 and annotate them (just choose your simple pothole images for now and we'll annotate them together. upload them here once you select at least 30. you could go for more too. i'd appreciate that immensely.)
 <br>
 Mayank: First 317 <br>
 <br>
