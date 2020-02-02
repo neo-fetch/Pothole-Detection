@@ -17,11 +17,11 @@
 <br>
 Mayank: First 317 <br>
 <br>
-Raghvesh: 318-634 <br>
+Raghvesh: 318-634 https://drive.google.com/open?id=1UdDMH3qUL4Fyb8zrMU9HYxSAu386deeK<br>
 <br>
-prabhu: 635 to 951 <br>
+prabhu: 635 to 951 https://drive.google.com/open?id=1idqJIEUPh8UrH1HfWdldkF3-pIPy_YGm<br>
 <br>
-Imma(HBD!):remaining 317 <br> 
+Imma(HBD!):remaining 317 https://drive.google.com/open?id=1QISgcLTDrDYZJsKQuVLdryT7pBt9njh-<br> 
 <br>
 # Note <br>
 The previous json files are for trial purposes only(since they classify images and not detect objects in them). Could be used by both devs 
