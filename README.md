@@ -12,10 +12,10 @@
 <h3>We need training data of 200 simple potholes which are annotated.I have an image dataset of at least 1200 proper pothole images which I will upload below</h3>
 <br>
 <h4>https://drive.google.com/open?id=1TeqOhl8XdiBdkJOr72Q6mMvQ_WG2IzV5</h4>
-# NOTE:
+# NOTE: <br>
 The previous json files are for trial purposes only(since they classify images and not detect objects in them). Could be used by both devs 
 <br>
-# Links
+# Links <br>
 https://teachablemachine.withgoogle.com/faq <br>
 https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006 <br>
 https://www.youtube.com/watch?v=oHg5SJYRHA0 <br>
