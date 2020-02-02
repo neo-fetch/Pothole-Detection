@@ -14,10 +14,15 @@
 <h4>https://drive.google.com/open?id=1TeqOhl8XdiBdkJOr72Q6mMvQ_WG2IzV5</h4>
 <br>
 <h5> Take any 30 simple potholes from your assigned 317 and annotate them
+<br>
 Mayank: First 317 <br>
+<br>
 Raghvesh: 318-634 <br>
+<br>
 prabhu: 635 to 951 <br>
+<br>
 Imma(HBD!):remaining 317 <br> 
+<br>
 # Note <br>
 The previous json files are for trial purposes only(since they classify images and not detect objects in them). Could be used by both devs 
 <br>
