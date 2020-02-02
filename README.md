@@ -8,11 +8,17 @@
 <h4>Hritik has agreed on frontend #1 while Sakshi has agreed on frontend #2 </h4>
 
 # POTHOLE DETECTION BACKEND
-<h2>We shall be using an object detection model (either by tensorflow.js or YOLO(preferrred one. We will go for this in the prototype model) or render manually usng r-fcn)</h2>
+<h2>We shall be using an object detection model (either by tensorflow.js or YOLO(YOLO is chosen one for the prototype model) or render manually usng r-fcn)</h2>
 <h3>We need training data of 200 simple potholes which are annotated.I have an image dataset of at least 1200 proper pothole images which I will upload below</h3>
 <br>
 <h4>https://drive.google.com/open?id=1TeqOhl8XdiBdkJOr72Q6mMvQ_WG2IzV5</h4>
-# NOTE: <br>
+<br>
+<h5> Take any 30 simple potholes from your assigned 317 and annotate them
+Mayank: First 317 <br>
+Raghvesh: 318-634 <br>
+prabhu: 635 to 951 <br>
+Imma(HBD!):remaining 317 <br> 
+# Note <br>
 The previous json files are for trial purposes only(since they classify images and not detect objects in them). Could be used by both devs 
 <br>
 # Links <br>
