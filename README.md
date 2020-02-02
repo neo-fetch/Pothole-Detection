@@ -9,8 +9,10 @@
 
 # POTHOLE DETECTION BACKEND
 <h2>We shall be using an object detection model (either by tensorflow.js or YOLO(preferrred one. We will go for this in the prototype model) or render manually usng r-fcn)</h2>
-<h3>We need training data of 200 simple potholes which are annotated.I have an image dataset of at least 1500 proper pothole images which I will upload</h3>
-
+<h3>We need training data of 200 simple potholes which are annotated.I have an image dataset of at least 1200 proper pothole images which I will upload below</h3>
+<br>
+<h4>https://drive.google.com/open?id=1TeqOhl8XdiBdkJOr72Q6mMvQ_WG2IzV5</h4>
+<br>
 # NOTE:
 The previous json files are for trial purposes only(since they classify images and not detect objects in them). Could be used by both devs  
 # Links
