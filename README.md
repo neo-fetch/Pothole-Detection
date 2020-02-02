@@ -1,4 +1,5 @@
 <h1>Created for the hardworking sih-devs to ease their burden.</h1>
+<br>
 # POTHOLE DETECTION FRONTEND
 <h3>Objctives: We have two frontends done by two devs: Hritik and Sakshi</h3>
 <h4>◘ Frontend 1: set up an interface that will get images periodically and it verifies potholes from an object detection tensorflow.js model(Done by the backend bois) and point the source on the map(either using the image metadata/embeddata or by a gps tag)</h4>
@@ -12,7 +13,7 @@
 # NOTE:
 The previous json files are for trial purposes only(since they classify images and not detect objects in them). Could be used by both devs  
 # Links
-https://teachablemachine.withgoogle.com/faq
-https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006
-https://www.youtube.com/watch?v=oHg5SJYRHA0 
+https://teachablemachine.withgoogle.com/faq <br>
+https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006 <br>
+https://www.youtube.com/watch?v=oHg5SJYRHA0 <br>
 (add more links if required)
