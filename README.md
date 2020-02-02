@@ -30,4 +30,6 @@ The previous json files are for trial purposes only(since they classify images a
 https://teachablemachine.withgoogle.com/faq <br>
 https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006 <br>
 https://www.youtube.com/watch?v=oHg5SJYRHA0 <br>
+<br><br>And most importantly,<br>
+https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
 (add more links if required)
