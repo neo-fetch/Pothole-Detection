@@ -4,7 +4,7 @@
 <br>
 <h3>Objctives: We have two frontends done by two devs: Hritik and Sakshi</h3>
 <h4>◘ Frontend 1: set up an interface such that given a gps co-ordinate you must point it on map </h4>
-<h4>◘ Frontend 2: set up an app interface that upon an input of an image, will use our object detection model to detect the potholes in it.</h4>
+<h4>◘ Frontend 2: set up an app interface such that upon an input of an image, the app will use our object detection model to detect the potholes in it.</h4>
 <h4>Hritik has agreed on frontend #1 while Sakshi has agreed on frontend #2 </h4>
 
 # POTHOLE DETECTION BACKEND
