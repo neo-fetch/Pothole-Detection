@@ -1,6 +1,7 @@
 <h1>Created for the hardworking sih-devs to ease their burden.</h1>
 <br>
-# POTHOLE DETECTION FRONTEND
+<h1>POTHOLE DETECTION FRONTEND</h1>
+<br>
 <h3>Objctives: We have two frontends done by two devs: Hritik and Sakshi</h3>
 <h4>◘ Frontend 1: set up an interface that will get images periodically and it verifies potholes from an object detection tensorflow.js model(Done by the backend bois) and point the source on the map(either using the image metadata/embeddata or by a gps tag)</h4>
 <h4>◘ Frontend 2: set up an app interface that will get an image from the mobile camera and use our model to detect potholes. Upon clicking a pic the interface should provide an option to send the image to the server along with the gps data on the phone when it was taken. (The photo should be sent then and there. There is no need to provie an option to upload the image as live camera does that) </h4>
