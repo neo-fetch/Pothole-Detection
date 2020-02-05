@@ -23,9 +23,11 @@ prabhu: 635 to 951 https://drive.google.com/open?id=1idqJIEUPh8UrH1HfWdldkF3-pIP
 <br>
 Imma(HBD!):remaining 317 https://drive.google.com/open?id=1QISgcLTDrDYZJsKQuVLdryT7pBt9njh-<br> 
 <br>
+  
 # Note <br>
 The previous json files are for trial purposes only(since they classify images and not detect objects in them). Could be used by both devs 
 <br>
+  
 # Links <br>
 https://teachablemachine.withgoogle.com/faq <br>
 https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006 <br>
@@ -34,4 +36,7 @@ https://www.youtube.com/watch?v=oHg5SJYRHA0 <br>
 https://www.pyimagesearch.com/2018/03/12/python-argparse-command-line-arguments/ <br>
 then <br>
 https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
+
+# youtube tutorials <br>
+https://www.youtube.com/watch?v=Lg4T9iJkwhE
 (add more links if required)
