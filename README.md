@@ -36,6 +36,14 @@ https://www.youtube.com/watch?v=oHg5SJYRHA0 <br>
 https://www.pyimagesearch.com/2018/03/12/python-argparse-command-line-arguments/ <br>
 then <br>
 https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
+<br>
+
+https://github.com/tzutalin/labelImg  <br>
+
+https://github.com/thtrieu/darkflow
+<br>
+
+
 
 # youtube tutorials <br>
 https://www.youtube.com/watch?v=Lg4T9iJkwhE
