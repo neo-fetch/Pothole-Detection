@@ -28,6 +28,10 @@ Imma(HBD!):remaining 317 https://drive.google.com/open?id=1QISgcLTDrDYZJsKQuVLdr
 The previous json files are for trial purposes only(since they classify images and not detect objects in them). Could be used by both devs 
 <br>
   
+  
+ https://drive.google.com/open?id=1Jh5-VRNY_7NO_GhZjWePM-u_Ys7WWHIh
+ 
+ 
 # Links <br>
 https://teachablemachine.withgoogle.com/faq <br>
 https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006 <br>
