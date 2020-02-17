@@ -52,3 +52,5 @@ https://github.com/thtrieu/darkflow
 # youtube tutorials <br>
 https://www.youtube.com/watch?v=Lg4T9iJkwhE
 (add more links if required)
+
+# https://drive.google.com/file/d/1gdu2YOqRE5Z4ayQ4-mQGpXN5LSv4qF-L/view?usp=sharing
