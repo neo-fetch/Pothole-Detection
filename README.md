@@ -1,4 +1,4 @@
-<h1>Created for the hardworking sih-devs to ease their burden.</h1>
+<h1>Created to address the issue of pothole problems on our way to work and especially back home.</h1>
 <br>
 <h1>POTHOLE DETECTION FRONTEND</h1>
 <br>
