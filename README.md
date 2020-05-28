@@ -58,4 +58,5 @@ https://www.youtube.com/watch?v=Lg4T9iJkwhE
 # Final Output: 
 
 ![Image of detection](https://raw.githubusercontent.com/mayank-pq2q4/Pothole-Detection/master/outputs/pothole%20detection%20(1).png)
+
 [Video Output](https://drive.google.com/file/d/1s9OzDxDzmo259UndSPWArdYnpXx3VfnO/view?usp=sharing)
